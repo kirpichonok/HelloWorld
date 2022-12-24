@@ -1,2 +1,7 @@
 New line
-secong line
+<<<<<<< HEAD
+fafassecong line
+one more line
+one more line
+one more line
+>>>>>>> feature1
